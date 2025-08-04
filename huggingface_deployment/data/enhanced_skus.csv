@@ -1,0 +1,386 @@
+sku,brand,brand_tier,category,product_name,variant,pack_size,price_idr,launch_year,is_flagship
+CHI-SNA-BBQ-598,Chitato,premium,Snacks,Chitato Snacks BBQ,BBQ,50g,30290,2018,True
+CHI-SNA-BBQ-823,Chitato,premium,Snacks,Chitato Snacks BBQ,BBQ,50g,67713,2022,False
+CHI-SNA-SPI-808,Chitato,premium,Snacks,Chitato Snacks Spicy,Spicy,150g,33316,2019,True
+CHI-SNA-CHE-561,Chitato,premium,Snacks,Chitato Snacks Cheese,Cheese,200g,52002,2019,True
+CHI-SNA-FAM-710,Chitato,premium,Snacks,Chitato Snacks Family Pack,Family Pack,50g,36796,2023,False
+MAR-CON-SPE-456,Mars,premium,Confectionery,Mars Confectionery Special,Special,200g,52445,2018,True
+MAR-CON-REG-642,Mars,premium,Confectionery,Mars Confectionery Regular,Regular,100g,31270,2022,False
+IND-CON-PRE-775,Indofood,mass,Condiments,Indofood Condiments Premium,Premium,500ml,16819,2020,False
+IND-CON-REG-215,Indofood,mass,Condiments,Indofood Condiments Regular,Regular,100g,14889,2023,False
+IND-CON-PRE-280,Indofood,mass,Condiments,Indofood Condiments Premium,Premium,200g,15235,2023,False
+HEA-PER-REG-391,Head & Shoulders,premium,Personal Care,Head & Shoulders Personal Care Regular,Regular,200ml,38735,2021,False
+HEA-PER-WHI-924,Head & Shoulders,premium,Personal Care,Head & Shoulders Personal Care Whitening,Whitening,300ml,74703,2021,True
+CLE-PER-REG-280,Clear,premium,Personal Care,Clear Personal Care Regular,Regular,300ml,35357,2024,True
+CLE-PER-ANT-218,Clear,premium,Personal Care,Clear Personal Care Anti-Aging,Anti-Aging,300ml,29643,2019,False
+HEA-PER-ANT-865,Head & Shoulders,economy,Personal Care,Head & Shoulders Personal Care Anti-Aging,Anti-Aging,150ml,10336,2019,False
+HEA-PER-REG-333,Head & Shoulders,economy,Personal Care,Head & Shoulders Personal Care Regular,Regular,200ml,6606,2019,False
+HEA-PER-ANT-484,Head & Shoulders,economy,Personal Care,Head & Shoulders Personal Care Anti-Aging,Anti-Aging,150ml,8615,2018,False
+HEA-PER-ANT-596,Head & Shoulders,economy,Personal Care,Head & Shoulders Personal Care Anti-Aging,Anti-Aging,300ml,5890,2021,False
+SUN-PER-SEN-565,Sunsilk,mass,Personal Care,Sunsilk Personal Care Sensitive,Sensitive,300ml,15834,2021,False
+SUN-PER-WHI-568,Sunsilk,mass,Personal Care,Sunsilk Personal Care Whitening,Whitening,150ml,16362,2023,False
+SUN-PER-WHI-307,Sunsilk,mass,Personal Care,Sunsilk Personal Care Whitening,Whitening,200ml,21006,2019,False
+DOV-PER-NAT-387,Dove,premium,Personal Care,Dove Personal Care Natural,Natural,100ml,33945,2018,False
+DOV-PER-ANT-275,Dove,premium,Personal Care,Dove Personal Care Anti-Aging,Anti-Aging,250ml,74829,2020,True
+L'O-BEA-MOI-908,L'Oréal,mass,Beauty,L'Oréal Beauty Moisturizer,Moisturizer,50ml,15568,2022,False
+L'O-BEA-MOI-188,L'Oréal,mass,Beauty,L'Oréal Beauty Moisturizer,Moisturizer,50ml,23490,2024,False
+L'O-BEA-MOI-982,L'Oréal,mass,Beauty,L'Oréal Beauty Moisturizer,Moisturizer,150ml,17092,2022,False
+L'O-BEA-CLE-385,L'Oréal,mass,Beauty,L'Oréal Beauty Cleanser,Cleanser,150ml,10475,2023,False
+IND-INS-CHI-435,Indomie,mass,Instant Noodles,Indomie Instant Noodles Chicken,Chicken,85g,24229,2022,False
+IND-INS-CHI-687,Indomie,mass,Instant Noodles,Indomie Instant Noodles Chicken,Chicken,85g,10166,2021,False
+IND-INS-ORI-581,Indomie,mass,Instant Noodles,Indomie Instant Noodles Original,Original,70g,26522,2018,False
+IND-INS-SEA-590,Indomie,mass,Instant Noodles,Indomie Instant Noodles Seafood,Seafood,120g,13211,2021,False
+IND-INS-SEA-185,Indomie,mass,Instant Noodles,Indomie Instant Noodles Seafood,Seafood,85g,28300,2024,False
+PEP-BEV-EXT-235,PepsiCo,premium,Beverages,PepsiCo Beverages Extra,Extra,350ml,48488,2020,True
+PEP-BEV-ORI-591,PepsiCo,premium,Beverages,PepsiCo Beverages Original,Original,250ml,68845,2020,True
+UNI-PER-NAT-124,Unilever,premium,Personal Care,Unilever Personal Care Natural,Natural,300ml,54808,2021,True
+UNI-PER-ANT-908,Unilever,premium,Personal Care,Unilever Personal Care Anti-Aging,Anti-Aging,150ml,49275,2023,False
+UNI-PER-REG-494,Unilever,premium,Personal Care,Unilever Personal Care Regular,Regular,100ml,70269,2020,True
+UNI-PER-WHI-870,Unilever,premium,Personal Care,Unilever Personal Care Whitening,Whitening,250ml,42680,2023,True
+UNI-PER-REG-443,Unilever,premium,Personal Care,Unilever Personal Care Regular,Regular,300ml,73218,2018,False
+VAS-PER-REG-474,Vaseline,premium,Personal Care,Vaseline Personal Care Regular,Regular,250ml,55497,2022,True
+VAS-PER-WHI-279,Vaseline,premium,Personal Care,Vaseline Personal Care Whitening,Whitening,200ml,67478,2022,True
+DOV-BEA-NIG-344,Dove,mass,Beauty,Dove Beauty Night Cream,Night Cream,100ml,27682,2018,False
+DOV-BEA-CLE-871,Dove,mass,Beauty,Dove Beauty Cleanser,Cleanser,50ml,17387,2020,False
+DOV-BEA-SER-615,Dove,mass,Beauty,Dove Beauty Serum,Serum,100ml,23858,2020,False
+TEH-BEV-ORI-453,Teh Botol Sosro,economy,Beverages,Teh Botol Sosro Beverages Original,Original,500ml,12412,2021,False
+TEH-BEV-PRE-949,Teh Botol Sosro,economy,Beverages,Teh Botol Sosro Beverages Premium,Premium,1.5L,7010,2021,False
+ABC-CON-PRE-476,ABC,economy,Condiments,ABC Condiments Premium,Premium,500ml,6075,2019,False
+ABC-CON-PRE-182,ABC,economy,Condiments,ABC Condiments Premium,Premium,100g,11400,2019,False
+ABC-CON-PRE-211,ABC,economy,Condiments,ABC Condiments Premium,Premium,100g,7699,2020,False
+ABC-CON-REG-251,ABC,economy,Condiments,ABC Condiments Regular,Regular,500ml,13131,2019,False
+ORA-PER-NAT-400,Oral-B,economy,Personal Care,Oral-B Personal Care Natural,Natural,100ml,11824,2023,False
+ORA-PER-NAT-585,Oral-B,economy,Personal Care,Oral-B Personal Care Natural,Natural,150ml,10680,2021,False
+ORA-PER-ANT-398,Oral-B,economy,Personal Care,Oral-B Personal Care Anti-Aging,Anti-Aging,100ml,8097,2018,False
+P&G-PER-SEN-760,P&G,mass,Personal Care,P&G Personal Care Sensitive,Sensitive,300ml,21006,2021,False
+P&G-PER-NAT-771,P&G,mass,Personal Care,P&G Personal Care Natural,Natural,200ml,20692,2021,False
+COC-BEV-EXT-680,Coca-Cola,economy,Beverages,Coca-Cola Beverages Extra,Extra,500ml,7161,2024,False
+COC-BEV-LIG-908,Coca-Cola,economy,Beverages,Coca-Cola Beverages Light,Light,350ml,9259,2019,False
+COC-BEV-EXT-395,Coca-Cola,economy,Beverages,Coca-Cola Beverages Extra,Extra,500ml,5775,2019,False
+COC-BEV-LIG-566,Coca-Cola,economy,Beverages,Coca-Cola Beverages Light,Light,500ml,7725,2022,False
+COC-BEV-SUG-392,Coca-Cola,economy,Beverages,Coca-Cola Beverages Sugar-Free,Sugar-Free,1.5L,7986,2019,False
+LIF-PER-SEN-219,Lifebuoy,premium,Personal Care,Lifebuoy Personal Care Sensitive,Sensitive,150ml,27696,2020,True
+LIF-PER-ANT-478,Lifebuoy,premium,Personal Care,Lifebuoy Personal Care Anti-Aging,Anti-Aging,200ml,37091,2019,True
+LIF-PER-WHI-251,Lifebuoy,premium,Personal Care,Lifebuoy Personal Care Whitening,Whitening,200ml,49439,2021,True
+VAS-PER-REG-514,Vaseline,economy,Personal Care,Vaseline Personal Care Regular,Regular,100ml,13182,2024,False
+VAS-PER-SEN-427,Vaseline,economy,Personal Care,Vaseline Personal Care Sensitive,Sensitive,250ml,7556,2018,False
+VAS-PER-NAT-439,Vaseline,economy,Personal Care,Vaseline Personal Care Natural,Natural,300ml,9842,2021,False
+VAS-PER-WHI-782,Vaseline,economy,Personal Care,Vaseline Personal Care Whitening,Whitening,300ml,7409,2024,False
+WAR-BEA-SER-849,Wardah,economy,Beauty,Wardah Beauty Serum,Serum,30ml,12847,2018,False
+WAR-BEA-NIG-415,Wardah,economy,Beauty,Wardah Beauty Night Cream,Night Cream,30ml,5406,2021,False
+WAR-BEA-MOI-556,Wardah,economy,Beauty,Wardah Beauty Moisturizer,Moisturizer,50ml,10855,2018,False
+WAR-BEA-SER-722,Wardah,economy,Beauty,Wardah Beauty Serum,Serum,30ml,8197,2022,False
+WAR-BEA-MOI-900,Wardah,economy,Beauty,Wardah Beauty Moisturizer,Moisturizer,50ml,9553,2019,False
+PAN-PER-REG-969,Pantene,mass,Personal Care,Pantene Personal Care Regular,Regular,300ml,24596,2023,False
+PAN-PER-REG-503,Pantene,mass,Personal Care,Pantene Personal Care Regular,Regular,300ml,16371,2021,False
+P&G-BEA-MOI-782,P&G,premium,Beauty,P&G Beauty Moisturizer,Moisturizer,30ml,48662,2021,True
+P&G-BEA-CLE-495,P&G,premium,Beauty,P&G Beauty Cleanser,Cleanser,100ml,49433,2018,False
+P&G-BEA-SER-415,P&G,premium,Beauty,P&G Beauty Serum,Serum,100ml,54201,2024,True
+P&G-BEA-NIG-859,P&G,premium,Beauty,P&G Beauty Night Cream,Night Cream,150ml,52237,2024,False
+WIN-PER-SEN-846,Wings,premium,Personal Care,Wings Personal Care Sensitive,Sensitive,250ml,52144,2019,True
+WIN-PER-SEN-410,Wings,premium,Personal Care,Wings Personal Care Sensitive,Sensitive,150ml,56104,2024,False
+WIN-PER-REG-874,Wings,premium,Personal Care,Wings Personal Care Regular,Regular,300ml,49626,2018,True
+WIN-PER-ANT-524,Wings,premium,Personal Care,Wings Personal Care Anti-Aging,Anti-Aging,200ml,36461,2022,False
+PEP-BEV-SUG-952,PepsiCo,mass,Beverages,PepsiCo Beverages Sugar-Free,Sugar-Free,350ml,22509,2020,False
+PEP-BEV-PRE-143,PepsiCo,mass,Beverages,PepsiCo Beverages Premium,Premium,1L,19895,2024,False
+PEP-BEV-PRE-605,PepsiCo,mass,Beverages,PepsiCo Beverages Premium,Premium,500ml,28326,2023,False
+IND-CON-REG-910,Indofood,premium,Condiments,Indofood Condiments Regular,Regular,100g,25160,2019,False
+IND-CON-PRE-954,Indofood,premium,Condiments,Indofood Condiments Premium,Premium,500ml,66717,2021,True
+IND-CON-SPE-394,Indofood,premium,Condiments,Indofood Condiments Special,Special,500ml,52338,2019,False
+IND-CON-SPE-350,Indofood,premium,Condiments,Indofood Condiments Special,Special,500ml,26864,2018,False
+IND-CON-PRE-713,Indofood,premium,Condiments,Indofood Condiments Premium,Premium,100g,73861,2020,False
+COL-PER-WHI-810,Colgate,economy,Personal Care,Colgate Personal Care Whitening,Whitening,250ml,6959,2020,False
+COL-PER-NAT-117,Colgate,economy,Personal Care,Colgate Personal Care Natural,Natural,300ml,9252,2019,False
+COL-PER-NAT-249,Colgate,economy,Personal Care,Colgate Personal Care Natural,Natural,100ml,10237,2021,False
+COL-PER-SEN-267,Colgate,economy,Personal Care,Colgate Personal Care Sensitive,Sensitive,200ml,5866,2020,False
+COL-PER-WHI-751,Colgate,economy,Personal Care,Colgate Personal Care Whitening,Whitening,250ml,10832,2018,False
+KAL-BEV-LIG-754,Kalbe,premium,Beverages,Kalbe Beverages Light,Light,1.5L,30034,2022,True
+KAL-BEV-SUG-713,Kalbe,premium,Beverages,Kalbe Beverages Sugar-Free,Sugar-Free,250ml,74324,2019,False
+KAL-BEV-LIG-377,Kalbe,premium,Beverages,Kalbe Beverages Light,Light,500ml,69921,2023,False
+KAL-BEV-ORI-693,Kalbe,premium,Beverages,Kalbe Beverages Original,Original,1.5L,48044,2024,True
+TEH-BEV-SUG-388,Teh Botol Sosro,premium,Beverages,Teh Botol Sosro Beverages Sugar-Free,Sugar-Free,1.5L,49445,2024,False
+TEH-BEV-EXT-266,Teh Botol Sosro,premium,Beverages,Teh Botol Sosro Beverages Extra,Extra,500ml,31712,2019,True
+MAR-CON-REG-728,Mars,mass,Confectionery,Mars Confectionery Regular,Regular,500ml,27224,2024,False
+MAR-CON-SPE-664,Mars,mass,Confectionery,Mars Confectionery Special,Special,500ml,13734,2021,False
+MAR-CON-PRE-219,Mars,mass,Confectionery,Mars Confectionery Premium,Premium,100g,14300,2018,False
+JOH-PER-WHI-807,Johnson & Johnson,premium,Personal Care,Johnson & Johnson Personal Care Whitening,Whitening,200ml,48761,2019,False
+JOH-PER-NAT-881,Johnson & Johnson,premium,Personal Care,Johnson & Johnson Personal Care Natural,Natural,300ml,47416,2019,False
+JOH-PER-REG-327,Johnson & Johnson,premium,Personal Care,Johnson & Johnson Personal Care Regular,Regular,100ml,33435,2024,True
+JOH-PER-SEN-228,Johnson & Johnson,premium,Personal Care,Johnson & Johnson Personal Care Sensitive,Sensitive,200ml,38752,2019,True
+JOH-PER-ANT-179,Johnson & Johnson,premium,Personal Care,Johnson & Johnson Personal Care Anti-Aging,Anti-Aging,100ml,26232,2024,False
+PAN-PER-REG-210,Pantene,premium,Personal Care,Pantene Personal Care Regular,Regular,150ml,27149,2024,True
+PAN-PER-ANT-359,Pantene,premium,Personal Care,Pantene Personal Care Anti-Aging,Anti-Aging,100ml,27836,2018,False
+PAN-PER-REG-901,Pantene,premium,Personal Care,Pantene Personal Care Regular,Regular,100ml,33112,2022,True
+PAN-PER-NAT-289,Pantene,premium,Personal Care,Pantene Personal Care Natural,Natural,150ml,68948,2020,True
+PAN-PER-REG-966,Pantene,premium,Personal Care,Pantene Personal Care Regular,Regular,150ml,73902,2020,False
+MON-CON-REG-899,Mondelez,premium,Confectionery,Mondelez Confectionery Regular,Regular,500ml,72746,2022,True
+MON-CON-SPE-169,Mondelez,premium,Confectionery,Mondelez Confectionery Special,Special,500ml,31494,2024,True
+MON-CON-SPE-832,Mondelez,premium,Confectionery,Mondelez Confectionery Special,Special,100g,37553,2020,True
+MON-CON-SPE-842,Mondelez,premium,Confectionery,Mondelez Confectionery Special,Special,100g,31467,2019,False
+DOV-PER-NAT-550,Dove,mass,Personal Care,Dove Personal Care Natural,Natural,150ml,13516,2019,False
+DOV-PER-WHI-534,Dove,mass,Personal Care,Dove Personal Care Whitening,Whitening,250ml,17021,2022,False
+DOV-PER-SEN-215,Dove,mass,Personal Care,Dove Personal Care Sensitive,Sensitive,250ml,20298,2018,False
+DOV-PER-ANT-632,Dove,mass,Personal Care,Dove Personal Care Anti-Aging,Anti-Aging,100ml,14453,2021,False
+SID-TRA-SPE-670,Sido Muncul,economy,Traditional Medicine,Sido Muncul Traditional Medicine Special,Special,200g,5665,2018,False
+SID-TRA-PRE-218,Sido Muncul,economy,Traditional Medicine,Sido Muncul Traditional Medicine Premium,Premium,200g,11304,2020,False
+SID-TRA-PRE-853,Sido Muncul,economy,Traditional Medicine,Sido Muncul Traditional Medicine Premium,Premium,500ml,10111,2023,False
+SID-TRA-PRE-667,Sido Muncul,economy,Traditional Medicine,Sido Muncul Traditional Medicine Premium,Premium,100g,11672,2020,False
+ULT-DAI-LOW-961,Ultra Milk,economy,Dairy,Ultra Milk Dairy Low Fat,Low Fat,125ml,12793,2023,False
+ULT-DAI-CHO-113,Ultra Milk,economy,Dairy,Ultra Milk Dairy Chocolate,Chocolate,200ml,13055,2023,False
+ULT-DAI-FUL-548,Ultra Milk,economy,Dairy,Ultra Milk Dairy Full Cream,Full Cream,500ml,13563,2023,False
+ULT-DAI-FUL-246,Ultra Milk,economy,Dairy,Ultra Milk Dairy Full Cream,Full Cream,125ml,11468,2021,False
+ULT-DAI-VAN-859,Ultra Milk,economy,Dairy,Ultra Milk Dairy Vanilla,Vanilla,125ml,7764,2018,False
+AQU-BEV-SUG-305,Aqua,premium,Beverages,Aqua Beverages Sugar-Free,Sugar-Free,500ml,63991,2024,False
+AQU-BEV-ORI-958,Aqua,premium,Beverages,Aqua Beverages Original,Original,350ml,52833,2023,False
+AQU-BEV-LIG-707,Aqua,premium,Beverages,Aqua Beverages Light,Light,1.5L,42889,2024,False
+AQU-BEV-LIG-782,Aqua,premium,Beverages,Aqua Beverages Light,Light,1L,64529,2021,False
+SUN-PER-SEN-210,Sunsilk,premium,Personal Care,Sunsilk Personal Care Sensitive,Sensitive,250ml,33007,2020,False
+SUN-PER-ANT-743,Sunsilk,premium,Personal Care,Sunsilk Personal Care Anti-Aging,Anti-Aging,150ml,33821,2018,True
+SUN-PER-REG-610,Sunsilk,premium,Personal Care,Sunsilk Personal Care Regular,Regular,100ml,69440,2018,True
+SUN-PER-ANT-795,Sunsilk,premium,Personal Care,Sunsilk Personal Care Anti-Aging,Anti-Aging,300ml,46427,2019,False
+MAR-CON-REG-869,Mars,economy,Confectionery,Mars Confectionery Regular,Regular,500ml,13518,2024,False
+MAR-CON-PRE-306,Mars,economy,Confectionery,Mars Confectionery Premium,Premium,200g,9809,2023,False
+IND-CON-PRE-367,Indofood,economy,Condiments,Indofood Condiments Premium,Premium,500ml,13887,2020,False
+IND-CON-SPE-118,Indofood,economy,Condiments,Indofood Condiments Special,Special,500ml,5517,2021,False
+IND-CON-REG-560,Indofood,economy,Condiments,Indofood Condiments Regular,Regular,200g,10153,2024,False
+IND-CON-PRE-570,Indofood,economy,Condiments,Indofood Condiments Premium,Premium,200g,5589,2018,False
+IND-CON-REG-775,Indofood,economy,Condiments,Indofood Condiments Regular,Regular,500ml,9965,2023,False
+MON-CON-PRE-237,Mondelez,mass,Confectionery,Mondelez Confectionery Premium,Premium,200g,20238,2023,False
+MON-CON-PRE-882,Mondelez,mass,Confectionery,Mondelez Confectionery Premium,Premium,200g,13584,2022,False
+MON-CON-SPE-775,Mondelez,mass,Confectionery,Mondelez Confectionery Special,Special,200g,28146,2023,False
+WAR-PER-ANT-974,Wardah,premium,Personal Care,Wardah Personal Care Anti-Aging,Anti-Aging,300ml,35243,2022,True
+WAR-PER-ANT-606,Wardah,premium,Personal Care,Wardah Personal Care Anti-Aging,Anti-Aging,200ml,63734,2021,False
+WAR-PER-WHI-162,Wardah,premium,Personal Care,Wardah Personal Care Whitening,Whitening,200ml,26844,2022,True
+WAR-PER-SEN-457,Wardah,premium,Personal Care,Wardah Personal Care Sensitive,Sensitive,200ml,73631,2022,True
+WAR-PER-WHI-199,Wardah,premium,Personal Care,Wardah Personal Care Whitening,Whitening,250ml,53059,2020,False
+ORA-PER-WHI-777,Oral-B,premium,Personal Care,Oral-B Personal Care Whitening,Whitening,100ml,41005,2019,True
+ORA-PER-WHI-186,Oral-B,premium,Personal Care,Oral-B Personal Care Whitening,Whitening,300ml,70088,2018,False
+ORA-PER-REG-273,Oral-B,premium,Personal Care,Oral-B Personal Care Regular,Regular,200ml,26291,2022,False
+ORA-PER-REG-773,Oral-B,premium,Personal Care,Oral-B Personal Care Regular,Regular,250ml,52687,2022,False
+ORA-PER-WHI-812,Oral-B,premium,Personal Care,Oral-B Personal Care Whitening,Whitening,100ml,55782,2022,True
+IND-INS-SEA-430,Indomie,premium,Instant Noodles,Indomie Instant Noodles Seafood,Seafood,120g,62521,2018,False
+IND-INS-ORI-444,Indomie,premium,Instant Noodles,Indomie Instant Noodles Original,Original,85g,57553,2022,False
+IND-INS-CHI-472,Indomie,premium,Instant Noodles,Indomie Instant Noodles Chicken,Chicken,90g,53573,2019,False
+IND-INS-ORI-394,Indomie,premium,Instant Noodles,Indomie Instant Noodles Original,Original,85g,42377,2018,False
+NIV-PER-SEN-860,Nivea,economy,Personal Care,Nivea Personal Care Sensitive,Sensitive,300ml,6506,2023,False
+NIV-PER-NAT-706,Nivea,economy,Personal Care,Nivea Personal Care Natural,Natural,100ml,10518,2020,False
+NIV-PER-REG-920,Nivea,economy,Personal Care,Nivea Personal Care Regular,Regular,300ml,13700,2021,False
+NIV-PER-ANT-455,Nivea,economy,Personal Care,Nivea Personal Care Anti-Aging,Anti-Aging,150ml,6256,2023,False
+NIV-PER-WHI-923,Nivea,economy,Personal Care,Nivea Personal Care Whitening,Whitening,300ml,9913,2021,False
+MON-SNA-BBQ-511,Mondelez,premium,Snacks,Mondelez Snacks BBQ,BBQ,150g,41466,2022,False
+MON-SNA-FAM-119,Mondelez,premium,Snacks,Mondelez Snacks Family Pack,Family Pack,75g,66146,2023,True
+MON-SNA-FAM-318,Mondelez,premium,Snacks,Mondelez Snacks Family Pack,Family Pack,150g,68306,2024,False
+MON-SNA-CHE-928,Mondelez,premium,Snacks,Mondelez Snacks Cheese,Cheese,200g,65266,2024,False
+COC-BEV-PRE-473,Coca-Cola,premium,Beverages,Coca-Cola Beverages Premium,Premium,350ml,55309,2019,True
+COC-BEV-SUG-964,Coca-Cola,premium,Beverages,Coca-Cola Beverages Sugar-Free,Sugar-Free,500ml,53533,2021,False
+UNI-BEA-NIG-373,Unilever,premium,Beauty,Unilever Beauty Night Cream,Night Cream,150ml,43811,2023,True
+UNI-BEA-SER-515,Unilever,premium,Beauty,Unilever Beauty Serum,Serum,50ml,40629,2018,True
+MUS-BEA-DAY-916,Mustika Ratu,premium,Beauty,Mustika Ratu Beauty Day Cream,Day Cream,50ml,45351,2021,False
+MUS-BEA-MOI-532,Mustika Ratu,premium,Beauty,Mustika Ratu Beauty Moisturizer,Moisturizer,150ml,67396,2018,True
+MUS-BEA-NIG-239,Mustika Ratu,premium,Beauty,Mustika Ratu Beauty Night Cream,Night Cream,100ml,26909,2020,False
+SID-BEV-ORI-901,Sido Muncul,premium,Beverages,Sido Muncul Beverages Original,Original,1L,26304,2018,True
+SID-BEV-LIG-405,Sido Muncul,premium,Beverages,Sido Muncul Beverages Light,Light,1.5L,29166,2021,False
+SID-BEV-ORI-959,Sido Muncul,premium,Beverages,Sido Muncul Beverages Original,Original,1L,72463,2024,True
+L'O-PER-REG-852,L'Oréal,premium,Personal Care,L'Oréal Personal Care Regular,Regular,300ml,57784,2018,False
+L'O-PER-ANT-343,L'Oréal,premium,Personal Care,L'Oréal Personal Care Anti-Aging,Anti-Aging,100ml,64309,2018,False
+L'O-PER-WHI-854,L'Oréal,premium,Personal Care,L'Oréal Personal Care Whitening,Whitening,300ml,50555,2024,True
+VAS-PER-SEN-209,Vaseline,mass,Personal Care,Vaseline Personal Care Sensitive,Sensitive,150ml,15739,2019,False
+VAS-PER-WHI-518,Vaseline,mass,Personal Care,Vaseline Personal Care Whitening,Whitening,250ml,18333,2024,False
+VAS-PER-NAT-602,Vaseline,mass,Personal Care,Vaseline Personal Care Natural,Natural,100ml,27480,2020,False
+VAS-PER-REG-658,Vaseline,mass,Personal Care,Vaseline Personal Care Regular,Regular,200ml,23886,2021,False
+VAS-PER-SEN-903,Vaseline,mass,Personal Care,Vaseline Personal Care Sensitive,Sensitive,200ml,14748,2020,False
+YAK-HEA-SPE-941,Yakult,premium,Health Supplements,Yakult Health Supplements Special,Special,200g,45196,2018,True
+YAK-HEA-SPE-918,Yakult,premium,Health Supplements,Yakult Health Supplements Special,Special,500ml,28583,2023,True
+YAK-HEA-PRE-493,Yakult,premium,Health Supplements,Yakult Health Supplements Premium,Premium,500ml,45268,2023,False
+YAK-HEA-SPE-647,Yakult,premium,Health Supplements,Yakult Health Supplements Special,Special,100g,40491,2024,False
+YAK-HEA-PRE-502,Yakult,premium,Health Supplements,Yakult Health Supplements Premium,Premium,100g,41746,2020,True
+ORA-PER-WHI-980,Oral-B,mass,Personal Care,Oral-B Personal Care Whitening,Whitening,150ml,15250,2021,False
+ORA-PER-WHI-908,Oral-B,mass,Personal Care,Oral-B Personal Care Whitening,Whitening,250ml,11110,2020,False
+ORA-PER-REG-582,Oral-B,mass,Personal Care,Oral-B Personal Care Regular,Regular,250ml,23531,2024,False
+P&G-HOM-LEM-944,P&G,mass,Home Care,P&G Home Care Lemon,Lemon,500ml,15254,2023,False
+P&G-HOM-FRE-460,P&G,mass,Home Care,P&G Home Care Fresh,Fresh,500ml,23791,2022,False
+P&G-HOM-LAV-564,P&G,mass,Home Care,P&G Home Care Lavender,Lavender,1L,10896,2024,False
+P&G-HOM-REG-745,P&G,mass,Home Care,P&G Home Care Regular,Regular,800ml,24529,2024,False
+MUS-PER-REG-304,Mustika Ratu,premium,Personal Care,Mustika Ratu Personal Care Regular,Regular,250ml,66176,2020,False
+MUS-PER-NAT-213,Mustika Ratu,premium,Personal Care,Mustika Ratu Personal Care Natural,Natural,100ml,35343,2019,True
+MUS-PER-NAT-911,Mustika Ratu,premium,Personal Care,Mustika Ratu Personal Care Natural,Natural,250ml,45932,2021,False
+SID-TRA-PRE-803,Sido Muncul,premium,Traditional Medicine,Sido Muncul Traditional Medicine Premium,Premium,100g,63864,2024,False
+SID-TRA-PRE-186,Sido Muncul,premium,Traditional Medicine,Sido Muncul Traditional Medicine Premium,Premium,100g,52164,2020,True
+SID-TRA-PRE-954,Sido Muncul,premium,Traditional Medicine,Sido Muncul Traditional Medicine Premium,Premium,200g,62381,2019,True
+COC-BEV-PRE-741,Coca-Cola,mass,Beverages,Coca-Cola Beverages Premium,Premium,1.5L,17494,2018,False
+COC-BEV-EXT-368,Coca-Cola,mass,Beverages,Coca-Cola Beverages Extra,Extra,350ml,15529,2018,False
+ULT-DAI-VAN-714,Ultra Milk,mass,Dairy,Ultra Milk Dairy Vanilla,Vanilla,500ml,18524,2019,False
+ULT-DAI-FUL-274,Ultra Milk,mass,Dairy,Ultra Milk Dairy Full Cream,Full Cream,250ml,28587,2018,False
+ULT-DAI-FUL-545,Ultra Milk,mass,Dairy,Ultra Milk Dairy Full Cream,Full Cream,1L,24867,2024,False
+ULT-DAI-STR-329,Ultra Milk,mass,Dairy,Ultra Milk Dairy Strawberry,Strawberry,125ml,16656,2019,False
+ULT-DAI-CHO-864,Ultra Milk,mass,Dairy,Ultra Milk Dairy Chocolate,Chocolate,250ml,26192,2021,False
+NES-BEV-EXT-714,Nestlé,mass,Beverages,Nestlé Beverages Extra,Extra,350ml,17063,2024,False
+NES-BEV-LIG-528,Nestlé,mass,Beverages,Nestlé Beverages Light,Light,350ml,15910,2021,False
+NES-BEV-SUG-397,Nestlé,mass,Beverages,Nestlé Beverages Sugar-Free,Sugar-Free,250ml,18578,2019,False
+NIV-PER-SEN-696,Nivea,premium,Personal Care,Nivea Personal Care Sensitive,Sensitive,200ml,69844,2023,False
+NIV-PER-REG-580,Nivea,premium,Personal Care,Nivea Personal Care Regular,Regular,100ml,33729,2024,False
+NIV-PER-ANT-830,Nivea,premium,Personal Care,Nivea Personal Care Anti-Aging,Anti-Aging,150ml,50132,2023,False
+NIV-PER-NAT-174,Nivea,premium,Personal Care,Nivea Personal Care Natural,Natural,200ml,31244,2022,True
+NIV-PER-REG-340,Nivea,premium,Personal Care,Nivea Personal Care Regular,Regular,200ml,55863,2020,True
+ABC-BEV-LIG-734,ABC,mass,Beverages,ABC Beverages Light,Light,1.5L,22482,2020,False
+ABC-BEV-EXT-235,ABC,mass,Beverages,ABC Beverages Extra,Extra,500ml,28335,2018,False
+SID-HEA-PRE-615,Sido Muncul,economy,Health Supplements,Sido Muncul Health Supplements Premium,Premium,100g,13074,2020,False
+SID-HEA-PRE-191,Sido Muncul,economy,Health Supplements,Sido Muncul Health Supplements Premium,Premium,100g,10198,2023,False
+SID-HEA-SPE-245,Sido Muncul,economy,Health Supplements,Sido Muncul Health Supplements Special,Special,200g,9266,2018,False
+MUS-PER-REG-611,Mustika Ratu,economy,Personal Care,Mustika Ratu Personal Care Regular,Regular,150ml,9603,2023,False
+MUS-PER-WHI-389,Mustika Ratu,economy,Personal Care,Mustika Ratu Personal Care Whitening,Whitening,250ml,9312,2022,False
+MUS-PER-WHI-420,Mustika Ratu,economy,Personal Care,Mustika Ratu Personal Care Whitening,Whitening,300ml,12139,2019,False
+MUS-PER-WHI-882,Mustika Ratu,economy,Personal Care,Mustika Ratu Personal Care Whitening,Whitening,250ml,7478,2022,False
+COL-PER-REG-252,Colgate,premium,Personal Care,Colgate Personal Care Regular,Regular,150ml,28576,2019,True
+COL-PER-REG-366,Colgate,premium,Personal Care,Colgate Personal Care Regular,Regular,250ml,35718,2023,False
+COL-PER-ANT-606,Colgate,premium,Personal Care,Colgate Personal Care Anti-Aging,Anti-Aging,100ml,27673,2021,False
+COL-PER-NAT-568,Colgate,premium,Personal Care,Colgate Personal Care Natural,Natural,250ml,57308,2018,True
+COL-PER-REG-195,Colgate,premium,Personal Care,Colgate Personal Care Regular,Regular,200ml,38351,2024,False
+JOH-PER-SEN-942,Johnson & Johnson,mass,Personal Care,Johnson & Johnson Personal Care Sensitive,Sensitive,300ml,18938,2022,False
+JOH-PER-NAT-697,Johnson & Johnson,mass,Personal Care,Johnson & Johnson Personal Care Natural,Natural,150ml,10135,2022,False
+JOH-PER-NAT-526,Johnson & Johnson,mass,Personal Care,Johnson & Johnson Personal Care Natural,Natural,150ml,12517,2019,False
+MUS-PER-REG-126,Mustika Ratu,mass,Personal Care,Mustika Ratu Personal Care Regular,Regular,200ml,19315,2023,False
+MUS-PER-REG-482,Mustika Ratu,mass,Personal Care,Mustika Ratu Personal Care Regular,Regular,250ml,29344,2018,False
+MUS-PER-WHI-129,Mustika Ratu,mass,Personal Care,Mustika Ratu Personal Care Whitening,Whitening,150ml,12656,2021,False
+MUS-PER-ANT-743,Mustika Ratu,mass,Personal Care,Mustika Ratu Personal Care Anti-Aging,Anti-Aging,250ml,18825,2022,False
+MUS-PER-REG-144,Mustika Ratu,mass,Personal Care,Mustika Ratu Personal Care Regular,Regular,200ml,24847,2020,False
+MON-SNA-BBQ-920,Mondelez,mass,Snacks,Mondelez Snacks BBQ,BBQ,50g,19271,2020,False
+MON-SNA-ORI-660,Mondelez,mass,Snacks,Mondelez Snacks Original,Original,50g,29735,2021,False
+MON-SNA-ORI-361,Mondelez,mass,Snacks,Mondelez Snacks Original,Original,150g,15833,2019,False
+KAL-DAI-FUL-972,Kalbe,premium,Dairy,Kalbe Dairy Full Cream,Full Cream,125ml,38646,2019,False
+KAL-DAI-STR-762,Kalbe,premium,Dairy,Kalbe Dairy Strawberry,Strawberry,250ml,74319,2023,True
+KAL-DAI-FUL-602,Kalbe,premium,Dairy,Kalbe Dairy Full Cream,Full Cream,250ml,53335,2023,False
+KAL-DAI-VAN-467,Kalbe,premium,Dairy,Kalbe Dairy Vanilla,Vanilla,200ml,68615,2018,False
+KAL-DAI-VAN-601,Kalbe,premium,Dairy,Kalbe Dairy Vanilla,Vanilla,200ml,54192,2021,False
+ULT-DAI-VAN-533,Ultra Milk,premium,Dairy,Ultra Milk Dairy Vanilla,Vanilla,1L,30912,2024,False
+ULT-DAI-CHO-290,Ultra Milk,premium,Dairy,Ultra Milk Dairy Chocolate,Chocolate,1L,53449,2023,False
+ULT-DAI-FUL-625,Ultra Milk,premium,Dairy,Ultra Milk Dairy Full Cream,Full Cream,125ml,47396,2021,True
+ULT-DAI-LOW-639,Ultra Milk,premium,Dairy,Ultra Milk Dairy Low Fat,Low Fat,500ml,66258,2023,True
+DOV-BEA-CLE-181,Dove,economy,Beauty,Dove Beauty Cleanser,Cleanser,150ml,12825,2020,False
+DOV-BEA-NIG-800,Dove,economy,Beauty,Dove Beauty Night Cream,Night Cream,50ml,9921,2024,False
+DOV-BEA-NIG-402,Dove,economy,Beauty,Dove Beauty Night Cream,Night Cream,150ml,14314,2018,False
+DOV-BEA-MOI-146,Dove,economy,Beauty,Dove Beauty Moisturizer,Moisturizer,30ml,13411,2018,False
+MAY-CON-PRE-575,Mayora,premium,Confectionery,Mayora Confectionery Premium,Premium,100g,68309,2023,False
+MAY-CON-PRE-699,Mayora,premium,Confectionery,Mayora Confectionery Premium,Premium,200g,30358,2024,True
+MAY-CON-REG-777,Mayora,premium,Confectionery,Mayora Confectionery Regular,Regular,500ml,55335,2019,True
+MAY-CON-PRE-185,Mayora,premium,Confectionery,Mayora Confectionery Premium,Premium,100g,52279,2023,False
+MAY-CON-PRE-841,Mayora,premium,Confectionery,Mayora Confectionery Premium,Premium,500ml,54818,2024,False
+ABC-BEV-LIG-316,ABC,premium,Beverages,ABC Beverages Light,Light,350ml,37129,2018,False
+ABC-BEV-ORI-647,ABC,premium,Beverages,ABC Beverages Original,Original,1L,26174,2018,False
+ABC-BEV-ORI-275,ABC,premium,Beverages,ABC Beverages Original,Original,250ml,67978,2021,False
+ABC-BEV-EXT-843,ABC,premium,Beverages,ABC Beverages Extra,Extra,1.5L,56897,2020,False
+IND-INS-BEE-228,Indomie,economy,Instant Noodles,Indomie Instant Noodles Beef,Beef,70g,7213,2018,False
+IND-INS-CHI-935,Indomie,economy,Instant Noodles,Indomie Instant Noodles Chicken,Chicken,70g,5260,2023,False
+IND-INS-CHI-314,Indomie,economy,Instant Noodles,Indomie Instant Noodles Chicken,Chicken,70g,12882,2023,False
+IND-INS-CHI-546,Indomie,economy,Instant Noodles,Indomie Instant Noodles Chicken,Chicken,85g,13824,2019,False
+IND-INS-ORI-888,Indomie,economy,Instant Noodles,Indomie Instant Noodles Original,Original,90g,12592,2019,False
+CLE-PER-ANT-219,Clear,mass,Personal Care,Clear Personal Care Anti-Aging,Anti-Aging,100ml,15442,2019,False
+CLE-PER-ANT-582,Clear,mass,Personal Care,Clear Personal Care Anti-Aging,Anti-Aging,250ml,10643,2024,False
+CLE-PER-ANT-348,Clear,mass,Personal Care,Clear Personal Care Anti-Aging,Anti-Aging,300ml,16597,2020,False
+CLE-PER-NAT-152,Clear,mass,Personal Care,Clear Personal Care Natural,Natural,250ml,20939,2018,False
+CLE-PER-REG-525,Clear,mass,Personal Care,Clear Personal Care Regular,Regular,250ml,26243,2023,False
+UNI-HOM-REG-509,Unilever,mass,Home Care,Unilever Home Care Regular,Regular,2L,25928,2022,False
+UNI-HOM-LAV-337,Unilever,mass,Home Care,Unilever Home Care Lavender,Lavender,2L,11989,2022,False
+UNI-HOM-REG-690,Unilever,mass,Home Care,Unilever Home Care Regular,Regular,2L,20349,2022,False
+UNI-HOM-REG-763,Unilever,mass,Home Care,Unilever Home Care Regular,Regular,1L,23668,2021,False
+YAK-DAI-STR-761,Yakult,economy,Dairy,Yakult Dairy Strawberry,Strawberry,1L,10681,2021,False
+YAK-DAI-STR-265,Yakult,economy,Dairy,Yakult Dairy Strawberry,Strawberry,125ml,9718,2023,False
+NES-CON-PRE-548,Nestlé,premium,Confectionery,Nestlé Confectionery Premium,Premium,200g,40211,2022,True
+NES-CON-SPE-447,Nestlé,premium,Confectionery,Nestlé Confectionery Special,Special,500ml,64459,2024,False
+NES-CON-REG-840,Nestlé,premium,Confectionery,Nestlé Confectionery Regular,Regular,200g,71621,2021,False
+UNI-HOM-LEM-736,Unilever,premium,Home Care,Unilever Home Care Lemon,Lemon,800ml,38579,2020,True
+UNI-HOM-LEM-277,Unilever,premium,Home Care,Unilever Home Care Lemon,Lemon,800ml,38073,2019,False
+UNI-HOM-REG-605,Unilever,premium,Home Care,Unilever Home Care Regular,Regular,2L,44900,2019,True
+UNI-HOM-LAV-118,Unilever,premium,Home Care,Unilever Home Care Lavender,Lavender,500ml,48513,2020,False
+HEA-PER-SEN-132,Head & Shoulders,mass,Personal Care,Head & Shoulders Personal Care Sensitive,Sensitive,300ml,12086,2020,False
+HEA-PER-ANT-732,Head & Shoulders,mass,Personal Care,Head & Shoulders Personal Care Anti-Aging,Anti-Aging,100ml,17428,2018,False
+HEA-PER-NAT-598,Head & Shoulders,mass,Personal Care,Head & Shoulders Personal Care Natural,Natural,150ml,18448,2020,False
+WIN-DET-REG-373,Wings,premium,Detergent,Wings Detergent Regular,Regular,500ml,34907,2024,True
+WIN-DET-REG-918,Wings,premium,Detergent,Wings Detergent Regular,Regular,200g,54958,2024,True
+WIN-DET-REG-724,Wings,premium,Detergent,Wings Detergent Regular,Regular,500ml,31676,2024,True
+WIN-DET-ECO-271,Wings,premium,Detergent,Wings Detergent Eco,Eco,100g,66282,2018,True
+KAL-DAI-LOW-825,Kalbe,economy,Dairy,Kalbe Dairy Low Fat,Low Fat,250ml,12233,2024,False
+KAL-DAI-VAN-850,Kalbe,economy,Dairy,Kalbe Dairy Vanilla,Vanilla,500ml,6626,2019,False
+KAL-DAI-CHO-938,Kalbe,economy,Dairy,Kalbe Dairy Chocolate,Chocolate,250ml,7257,2018,False
+KAL-DAI-LOW-525,Kalbe,economy,Dairy,Kalbe Dairy Low Fat,Low Fat,500ml,5107,2019,False
+NIV-PER-WHI-617,Nivea,mass,Personal Care,Nivea Personal Care Whitening,Whitening,200ml,15611,2018,False
+NIV-PER-WHI-832,Nivea,mass,Personal Care,Nivea Personal Care Whitening,Whitening,200ml,23599,2020,False
+NIV-PER-SEN-871,Nivea,mass,Personal Care,Nivea Personal Care Sensitive,Sensitive,150ml,27355,2021,False
+NIV-PER-SEN-921,Nivea,mass,Personal Care,Nivea Personal Care Sensitive,Sensitive,150ml,24051,2021,False
+NIV-PER-ANT-972,Nivea,mass,Personal Care,Nivea Personal Care Anti-Aging,Anti-Aging,250ml,26913,2024,False
+PEP-SNA-ORI-249,PepsiCo,mass,Snacks,PepsiCo Snacks Original,Original,150g,10325,2023,False
+PEP-SNA-FAM-186,PepsiCo,mass,Snacks,PepsiCo Snacks Family Pack,Family Pack,50g,21085,2020,False
+PEP-SNA-SPI-544,PepsiCo,mass,Snacks,PepsiCo Snacks Spicy,Spicy,75g,12014,2021,False
+PEP-SNA-ORI-688,PepsiCo,mass,Snacks,PepsiCo Snacks Original,Original,75g,11894,2023,False
+LIF-PER-ANT-797,Lifebuoy,economy,Personal Care,Lifebuoy Personal Care Anti-Aging,Anti-Aging,250ml,14070,2024,False
+LIF-PER-WHI-452,Lifebuoy,economy,Personal Care,Lifebuoy Personal Care Whitening,Whitening,200ml,5129,2024,False
+LIF-PER-WHI-725,Lifebuoy,economy,Personal Care,Lifebuoy Personal Care Whitening,Whitening,300ml,7406,2023,False
+LIF-PER-ANT-759,Lifebuoy,economy,Personal Care,Lifebuoy Personal Care Anti-Aging,Anti-Aging,250ml,8360,2022,False
+NIV-BEA-SER-894,Nivea,premium,Beauty,Nivea Beauty Serum,Serum,150ml,37929,2020,True
+NIV-BEA-DAY-499,Nivea,premium,Beauty,Nivea Beauty Day Cream,Day Cream,100ml,72520,2023,True
+NIV-BEA-MOI-318,Nivea,premium,Beauty,Nivea Beauty Moisturizer,Moisturizer,100ml,31083,2022,False
+NIV-BEA-MOI-875,Nivea,premium,Beauty,Nivea Beauty Moisturizer,Moisturizer,100ml,66660,2019,True
+NIV-BEA-DAY-347,Nivea,premium,Beauty,Nivea Beauty Day Cream,Day Cream,100ml,44919,2023,False
+MUS-BEA-DAY-365,Mustika Ratu,economy,Beauty,Mustika Ratu Beauty Day Cream,Day Cream,100ml,13314,2020,False
+MUS-BEA-DAY-874,Mustika Ratu,economy,Beauty,Mustika Ratu Beauty Day Cream,Day Cream,30ml,7043,2021,False
+NIV-BEA-MOI-564,Nivea,mass,Beauty,Nivea Beauty Moisturizer,Moisturizer,30ml,21107,2019,False
+NIV-BEA-MOI-458,Nivea,mass,Beauty,Nivea Beauty Moisturizer,Moisturizer,50ml,19804,2020,False
+NIV-BEA-MOI-831,Nivea,mass,Beauty,Nivea Beauty Moisturizer,Moisturizer,50ml,22375,2022,False
+NIV-BEA-NIG-435,Nivea,mass,Beauty,Nivea Beauty Night Cream,Night Cream,30ml,26923,2022,False
+AQU-BEV-LIG-200,Aqua,mass,Beverages,Aqua Beverages Light,Light,1L,14802,2023,False
+AQU-BEV-EXT-183,Aqua,mass,Beverages,Aqua Beverages Extra,Extra,1L,13022,2018,False
+AQU-BEV-EXT-587,Aqua,mass,Beverages,Aqua Beverages Extra,Extra,350ml,17038,2021,False
+L'O-BEA-SER-702,L'Oréal,premium,Beauty,L'Oréal Beauty Serum,Serum,150ml,61632,2022,False
+L'O-BEA-SER-751,L'Oréal,premium,Beauty,L'Oréal Beauty Serum,Serum,150ml,52749,2021,False
+LUX-PER-SEN-617,Lux,mass,Personal Care,Lux Personal Care Sensitive,Sensitive,150ml,14165,2021,False
+LUX-PER-ANT-821,Lux,mass,Personal Care,Lux Personal Care Anti-Aging,Anti-Aging,150ml,26816,2024,False
+LUX-PER-NAT-811,Lux,mass,Personal Care,Lux Personal Care Natural,Natural,100ml,16967,2021,False
+LUX-PER-ANT-864,Lux,mass,Personal Care,Lux Personal Care Anti-Aging,Anti-Aging,100ml,15139,2022,False
+LUX-PER-WHI-716,Lux,mass,Personal Care,Lux Personal Care Whitening,Whitening,100ml,23389,2018,False
+LIF-PER-WHI-396,Lifebuoy,mass,Personal Care,Lifebuoy Personal Care Whitening,Whitening,300ml,11319,2022,False
+LIF-PER-SEN-480,Lifebuoy,mass,Personal Care,Lifebuoy Personal Care Sensitive,Sensitive,100ml,19991,2020,False
+MAY-BEV-LIG-128,Mayora,economy,Beverages,Mayora Beverages Light,Light,1L,7340,2019,False
+MAY-BEV-PRE-149,Mayora,economy,Beverages,Mayora Beverages Premium,Premium,1L,9999,2020,False
+MAY-BEV-SUG-938,Mayora,economy,Beverages,Mayora Beverages Sugar-Free,Sugar-Free,350ml,13008,2018,False
+MAY-BEV-ORI-457,Mayora,economy,Beverages,Mayora Beverages Original,Original,1.5L,6106,2024,False
+YAK-HEA-PRE-686,Yakult,mass,Health Supplements,Yakult Health Supplements Premium,Premium,200g,20148,2022,False
+YAK-HEA-PRE-900,Yakult,mass,Health Supplements,Yakult Health Supplements Premium,Premium,200g,22363,2021,False
+TEH-BEV-SUG-751,Teh Botol Sosro,mass,Beverages,Teh Botol Sosro Beverages Sugar-Free,Sugar-Free,1.5L,25103,2024,False
+TEH-BEV-EXT-252,Teh Botol Sosro,mass,Beverages,Teh Botol Sosro Beverages Extra,Extra,1L,20656,2018,False
+TEH-BEV-PRE-519,Teh Botol Sosro,mass,Beverages,Teh Botol Sosro Beverages Premium,Premium,1.5L,22688,2019,False
+UNI-PER-WHI-146,Unilever,mass,Personal Care,Unilever Personal Care Whitening,Whitening,300ml,24519,2023,False
+UNI-PER-WHI-986,Unilever,mass,Personal Care,Unilever Personal Care Whitening,Whitening,100ml,15426,2023,False
+UNI-PER-REG-745,Unilever,mass,Personal Care,Unilever Personal Care Regular,Regular,300ml,20120,2022,False
+UNI-PER-REG-187,Unilever,mass,Personal Care,Unilever Personal Care Regular,Regular,300ml,16305,2022,False
+UNI-PER-NAT-875,Unilever,mass,Personal Care,Unilever Personal Care Natural,Natural,300ml,11732,2022,False
+JOH-BAB-PRE-119,Johnson & Johnson,premium,Baby Care,Johnson & Johnson Baby Care Premium,Premium,500ml,32882,2023,True
+JOH-BAB-REG-905,Johnson & Johnson,premium,Baby Care,Johnson & Johnson Baby Care Regular,Regular,200g,38487,2019,False
+JOH-BAB-REG-721,Johnson & Johnson,premium,Baby Care,Johnson & Johnson Baby Care Regular,Regular,500ml,45999,2021,True
+KAL-HEA-REG-547,Kalbe,economy,Health Supplements,Kalbe Health Supplements Regular,Regular,200g,7957,2021,False
+KAL-HEA-REG-424,Kalbe,economy,Health Supplements,Kalbe Health Supplements Regular,Regular,500ml,11258,2020,False
+KAL-HEA-REG-201,Kalbe,economy,Health Supplements,Kalbe Health Supplements Regular,Regular,100g,13876,2019,False
+KAL-HEA-PRE-287,Kalbe,economy,Health Supplements,Kalbe Health Supplements Premium,Premium,100g,9187,2024,False
+KAL-HEA-REG-414,Kalbe,economy,Health Supplements,Kalbe Health Supplements Regular,Regular,100g,11672,2023,False
+IND-SNA-ORI-433,Indofood,economy,Snacks,Indofood Snacks Original,Original,200g,7973,2018,False
+IND-SNA-ORI-499,Indofood,economy,Snacks,Indofood Snacks Original,Original,100g,6617,2020,False
+IND-SNA-BBQ-431,Indofood,economy,Snacks,Indofood Snacks BBQ,BBQ,150g,9225,2021,False
+PEP-SNA-ORI-345,PepsiCo,premium,Snacks,PepsiCo Snacks Original,Original,75g,74291,2022,True
+PEP-SNA-SPI-870,PepsiCo,premium,Snacks,PepsiCo Snacks Spicy,Spicy,200g,58057,2021,True
+KAL-HEA-REG-575,Kalbe,premium,Health Supplements,Kalbe Health Supplements Regular,Regular,200g,61249,2021,True
+KAL-HEA-PRE-517,Kalbe,premium,Health Supplements,Kalbe Health Supplements Premium,Premium,100g,66519,2019,True
+KAL-HEA-PRE-700,Kalbe,premium,Health Supplements,Kalbe Health Supplements Premium,Premium,500ml,69243,2018,True
+KAL-HEA-SPE-904,Kalbe,premium,Health Supplements,Kalbe Health Supplements Special,Special,500ml,33229,2020,False
+DOV-PER-REG-308,Dove,economy,Personal Care,Dove Personal Care Regular,Regular,300ml,7332,2020,False
+DOV-PER-NAT-900,Dove,economy,Personal Care,Dove Personal Care Natural,Natural,150ml,9016,2022,False
+DOV-PER-ANT-562,Dove,economy,Personal Care,Dove Personal Care Anti-Aging,Anti-Aging,300ml,5684,2018,False
+DOV-PER-ANT-396,Dove,economy,Personal Care,Dove Personal Care Anti-Aging,Anti-Aging,300ml,7742,2018,False
+DOV-PER-REG-379,Dove,economy,Personal Care,Dove Personal Care Regular,Regular,250ml,14795,2020,False
+COL-PER-WHI-699,Colgate,mass,Personal Care,Colgate Personal Care Whitening,Whitening,150ml,26722,2020,False
+COL-PER-REG-856,Colgate,mass,Personal Care,Colgate Personal Care Regular,Regular,150ml,27501,2022,False
+COL-PER-REG-191,Colgate,mass,Personal Care,Colgate Personal Care Regular,Regular,200ml,22953,2023,False
+COL-PER-REG-842,Colgate,mass,Personal Care,Colgate Personal Care Regular,Regular,150ml,28234,2020,False
+COL-PER-ANT-725,Colgate,mass,Personal Care,Colgate Personal Care Anti-Aging,Anti-Aging,150ml,26541,2024,False
+IND-INS-BEE-870,Indofood,mass,Instant Noodles,Indofood Instant Noodles Beef,Beef,90g,24834,2020,False
+IND-INS-CHI-449,Indofood,mass,Instant Noodles,Indofood Instant Noodles Chicken,Chicken,90g,16901,2021,False
+IND-INS-SPI-116,Indofood,mass,Instant Noodles,Indofood Instant Noodles Spicy,Spicy,90g,14381,2023,False
+IND-INS-ORI-104,Indofood,mass,Instant Noodles,Indofood Instant Noodles Original,Original,120g,10313,2023,False

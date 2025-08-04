@@ -1,0 +1,51 @@
+promo_id,headline,touchpoint,category,brand,sku,period,kpi_lift,kpi_roi,description
+PROMO001,"BELI 2 GRATIS 1 - Hemat Hingga Rp 25.000!",in-store,Instant Noodles,Indomie,IDM-001,2024-Q1,0.35,4.2,Bundle promotion untuk meningkatkan volume penjualan instant noodles
+PROMO002,"FLASH SALE 50% OFF - Stok Terbatas Hari Ini!",digital,Snacks,Chitato,CHT-BBQ-85,2024-Q1,0.28,3.8,Flash sale untuk clear stock dan meningkatkan traffic digital
+PROMO003,"GRATIS SAMPLE SUSU - Coba Rasa Baru Sekarang!",in-store,Dairy,Ultra Milk,ULM-CHOC-250,2024-Q1,0.42,5.1,Sampling campaign untuk awareness varian rasa baru
+PROMO004,"BUY 1 GET 1 FREE - Double Kebahagiaan!",flyer,Beverages,Aqua,AQA-600ML,2024-Q2,0.31,3.9,BOGO promotion untuk meningkatkan penetrasi pasar
+PROMO005,"HEMAT Rp 15.000 - Promo Ramadan Spesial!",in-store,Beverages,Teh Botol Sosro,TBS-450ML,2024-Q2,0.25,3.2,Price reduction selama bulan Ramadan
+PROMO006,"WIN HADIAH JUTAAN - Upload & Menang!",digital,Snacks,Cheetos,CHE-FLAMIN-85,2024-Q2,0.38,4.7,UGC contest untuk engagement dan brand awareness
+PROMO007,"FREE TUMBLER CANTIK - Beli 3 Dapat Bonus!",in-store,Beverages,Nutrisari,NTS-ORANGE-250,2024-Q2,0.44,5.3,Merchandising promotion dengan premium gift
+PROMO008,"DISKON 40% - Akhir Bulan Meriah!",flyer,Cookies,Oreo,ORE-ORIG-137,2024-Q3,0.29,3.5,End of month clearance promotion
+PROMO009,"3 BOTOL CUMA Rp 10.000 - Super Hemat!",in-store,Dairy,Yakult,YKL-80ML,2024-Q3,0.33,4.1,Multi-unit pricing untuk volume sales
+PROMO010,"CASHBACK 25% - Belanja Makin Untung!",digital,Personal Care,Pepsodent,PPS-WHITENING,2024-Q3,0.27,3.6,Cashback promotion untuk digital channel
+PROMO011,"BELI SEKARANG BAYAR NANTI - 0% Bunga!",digital,Electronics,Polytron,PLT-TV-32,2024-Q1,0.41,4.9,BNPL promotion untuk high-value items
+PROMO012,"GRATIS ONGKIR + DISKON 20%!",digital,Home Care,Rinso,RNS-ANTI-NODA,2024-Q1,0.24,3.1,Kombinasi free shipping dan discount
+PROMO013,"KOLEKSI STIKER LUCU - Kumpulkan Semua!",in-store,Snacks,Taro,TRO-SEAWEED-60,2024-Q2,0.36,4.4,Collectible sticker campaign untuk repeat purchase
+PROMO014,"TRADE-IN LAMA DAPAT BARU - Hemat 50%!",in-store,Electronics,Samsung,SMG-PHONE-A24,2024-Q2,0.39,4.6,Trade-in program untuk smartphone upgrade
+PROMO015,"BUNDLING HEMAT - Pasta Gigi + Sikat Gigi!",flyer,Personal Care,Sensodyne,SNS-BUNDLE-01,2024-Q3,0.32,3.7,Product bundling untuk category expansion
+PROMO016,"WEEKEND SALE - Sabtu Minggu Spesial!",digital,Fashion,Uniqlo,UQL-TSHIRT-M,2024-Q1,0.26,3.3,Weekend-specific promotion untuk fashion
+PROMO017,"MEMBER EXCLUSIVE - Hanya Untuk Kamu!",digital,Beauty,Wardah,WRD-LIPSTICK-05,2024-Q2,0.37,4.5,Membership-based exclusive promotion
+PROMO018,"PAKET KELUARGA - 4 Porsi Harga 3!",in-store,Food,KFC,KFC-FAMILY-PACK,2024-Q2,0.43,5.2,Family pack promotion untuk dining category
+PROMO019,"EARLY BIRD 30% OFF - Pesan Sekarang!",digital,Travel,Traveloka,TVL-HOTEL-JKT,2024-Q3,0.35,4.3,Early booking discount untuk travel industry
+PROMO020,"LOYALTY REWARD - Poin Double Hari Ini!",in-store,Retail,Alfamart,ALF-MEMBERSHIP,2024-Q1,0.28,3.4,Double points untuk loyalty program activation
+PROMO021,"MIDNIGHT SALE - Pukul 00.00 WIB!",digital,Electronics,Xiaomi,XMI-REDMI-NOTE,2024-Q1,0.41,4.8,Midnight flash sale untuk tech products
+PROMO022,"SOCIAL MEDIA SHARE = DISKON 15%!",digital,F&B,McDonald's,MCD-BIG-MAC,2024-Q2,0.30,3.8,Social sharing incentive untuk viral marketing
+PROMO023,"FIRST TIME BUYER - Welcome Bonus 20%!",digital,E-commerce,Shopee,SPE-NEW-USER,2024-Q2,0.45,5.4,New customer acquisition promotion
+PROMO024,"REFERRAL BONUS - Ajak Teman Dapat Hadiah!",digital,Fintech,GoPay,GPY-REFERRAL,2024-Q3,0.38,4.7,Referral program untuk user growth
+PROMO025,"BULK DISCOUNT - Beli Banyak Lebih Murah!",wholesale,FMCG,Wings,WGS-SO-KLIN-1KG,2024-Q1,0.34,4.0,Wholesale bulk pricing promotion
+PROMO026,"PAYDAY PROMO - Gajian Langsung Belanja!",digital,Retail,Tokopedia,TKP-PAYDAY,2024-Q2,0.29,3.6,Payday timing-based promotion
+PROMO027,"SEASONAL CLEARANCE - Musim Hujan Sale!",in-store,Fashion,Adidas,ADS-JACKET-L,2024-Q3,0.26,3.2,Seasonal clearance untuk weather-dependent items
+PROMO028,"STUDENT DISCOUNT - Tunjukkan KTM!",in-store,F&B,Starbucks,SBX-FRAPPUCCINO,2024-Q1,0.22,2.9,Student-specific discount dengan ID verification
+PROMO029,"BIRTHDAY SPECIAL - Bulan Kelahiran Hemat!",digital,Beauty,Sephora,SPH-BIRTHDAY,2024-Q2,0.33,4.1,Birthday month special promotion
+PROMO030,"COMBO DEAL - Paket Lengkap Lebih Hemat!",in-store,Electronics,LG,LG-COMBO-TV-SOUND,2024-Q3,0.37,4.4,Multi-product combo untuk electronics
+PROMO031,"LIMITED EDITION - Produk Eksklusif Terbatas!",digital,Fashion,Nike,NKE-LIMITED-AIR,2024-Q1,0.46,5.6,Limited edition scarcity marketing
+PROMO032,"MEGA SALE 70% OFF - Kejutan Terakhir!",in-store,Fashion,Zara,ZRA-MEGA-SALE,2024-Q2,0.41,4.9,End of season mega sale
+PROMO033,"FAMILY & FRIENDS - Diskon Keluarga Besar!",flyer,Retail,IKEA,IKE-FAMILY-FRIENDS,2024-Q2,0.35,4.2,Family and friends exclusive event
+PROMO034,"FLASH DEAL 2 JAM - Jangan Sampai Terlewat!",digital,Electronics,Realme,RLM-FLASH-2H,2024-Q3,0.39,4.6,Ultra-short flash sale untuk urgency
+PROMO035,"WEEKEND WARRIOR - Petualangan Akhir Pekan!",digital,Outdoor,Eiger,EGR-WEEKEND,2024-Q1,0.31,3.7,Weekend-themed outdoor gear promotion
+PROMO036,"HEALTHY LIVING - Hidup Sehat Lebih Murah!",in-store,Health,Blackmores,BLM-VITAMIN-C,2024-Q2,0.28,3.5,Health-focused wellness promotion
+PROMO037,"GAMING GEAR SALE - Level Up Setup Kamu!",digital,Gaming,Logitech,LGT-GAMING-SET,2024-Q3,0.42,5.0,Gaming-specific equipment promotion
+PROMO038,"OFFICE ESSENTIAL - Produktivitas Maksimal!",wholesale,Office,Canon,CAN-PRINTER-G2010,2024-Q1,0.33,3.9,B2B office equipment promotion
+PROMO039,"SENIOR CITIZEN - Diskon Khusus Lansia!",in-store,Pharmacy,Guardian,GRD-SENIOR,2024-Q2,0.25,3.1,Senior citizen specific healthcare discount
+PROMO040,"NEWLYWED PACKAGE - Rumah Baru Impian!",in-store,Home,IKEA,IKE-NEWLYWED,2024-Q3,0.38,4.5,Newlywed home furnishing package
+PROMO041,"SPORTS SEASON - Dukung Tim Favorit!",digital,Sports,Specs,SPC-JERSEY-PSI,2024-Q1,0.34,4.1,Sports season merchandise promotion
+PROMO042,"BACK TO SCHOOL - Perlengkapan Sekolah Lengkap!",flyer,Stationery,Faber Castell,FCL-SCHOOL-KIT,2024-Q2,0.29,3.6,Back to school seasonal promotion
+PROMO043,"WORK FROM HOME - Setup Kantor Rumah!",digital,Furniture,INFORMA,INF-WFH-DESK,2024-Q2,0.36,4.3,WFH furniture setup promotion
+PROMO044,"PET LOVERS - Sayang Hewan Kesayangan!",in-store,Pet Care,Royal Canin,RCN-DOG-FOOD,2024-Q3,0.32,3.8,Pet care enthusiast targeting
+PROMO045,"ECO FRIENDLY - Ramah Lingkungan Hemat!",digital,Sustainable,Bamboo,BMB-ECO-BOTTLE,2024-Q1,0.27,3.4,Sustainability-focused green promotion
+PROMO046,"ARTISAN CRAFT - Karya Tangan Berkualitas!",flyer,Handicraft,Batik Trusmi,BTK-SHIRT-L,2024-Q2,0.24,3.0,Local artisan craft promotion
+PROMO047,"TECH SAVVY - Gadget Terdepan Termurah!",digital,Technology,Oppo,OPP-SMARTPHONE,2024-Q3,0.40,4.7,Tech enthusiast gadget promotion
+PROMO048,"COMFORT ZONE - Kenyamanan Rumah Terbaik!",in-store,Home Comfort,Sharp,SHP-AC-1PK,2024-Q1,0.35,4.2,Home comfort appliance promotion
+PROMO049,"ADVENTURE GEAR - Petualangan Tanpa Batas!",outdoor,Adventure,Consina,CNS-BACKPACK-40L,2024-Q2,0.37,4.4,Adventure gear outdoor promotion
+PROMO050,"LUXURY EXPERIENCE - Kemewahan Terjangkau!",premium,Luxury,Coach,CCH-HANDBAG,2024-Q3,0.44,5.1,Accessible luxury experience promotion

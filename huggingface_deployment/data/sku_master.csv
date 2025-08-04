@@ -1,0 +1,106 @@
+sku,brand,category,product_name,pack_size
+IDM-001,Indomie,Instant Noodles,Indomie Goreng Rendang,85g
+IDM-002,Indomie,Instant Noodles,Indomie Soto Ayam,75g
+IDM-003,Indomie,Instant Noodles,Indomie Ayam Bawang,85g
+IDM-004,Indomie,Instant Noodles,Indomie Kari Ayam,80g
+IDM-005,Indomie,Instant Noodles,Indomie Mi Goreng Original,85g
+CHT-BBQ-85,Chitato,Snacks,Chitato Potato Chips BBQ,85g
+CHT-ORIG-85,Chitato,Snacks,Chitato Potato Chips Original,85g
+CHT-CHEESE-85,Chitato,Snacks,Chitato Potato Chips Cheese,85g
+CHT-SEAWEED-60,Chitato,Snacks,Chitato Lite Seaweed,60g
+CHE-FLAMIN-85,Cheetos,Snacks,Cheetos Flamin Hot,85g
+CHE-CHEESE-75,Cheetos,Snacks,Cheetos Cheese Puffs,75g
+TRO-SEAWEED-60,Taro,Snacks,Taro Seaweed Chips,60g
+TRO-CHILI-60,Taro,Snacks,Taro Spicy Chili,60g
+LAY-ORIG-70,Lays,Snacks,Lays Classic Original,70g
+LAY-BBQ-70,Lays,Snacks,Lays BBQ Flavor,70g
+ULM-CHOC-250,Ultra Milk,Dairy,Ultra Milk Chocolate,250ml
+ULM-STRAW-250,Ultra Milk,Dairy,Ultra Milk Strawberry,250ml
+ULM-FULL-1L,Ultra Milk,Dairy,Ultra Milk Full Cream,1L
+ULM-LOW-FAT-250,Ultra Milk,Dairy,Ultra Milk Low Fat,250ml
+YKL-80ML,Yakult,Dairy,Yakult Original,80ml
+YKL-LIGHT-80,Yakult,Dairy,Yakult Light,80ml
+AQA-600ML,Aqua,Beverages,Aqua Mineral Water,600ml
+AQA-1500ML,Aqua,Beverages,Aqua Mineral Water,1500ml
+AQA-330ML,Aqua,Beverages,Aqua Mineral Water,330ml
+TBS-450ML,Teh Botol Sosro,Beverages,Teh Botol Sosro Original,450ml
+TBS-LESS-SUGAR,Teh Botol Sosro,Beverages,Teh Botol Sosro Less Sugar,350ml
+NTS-ORANGE-250,Nutrisari,Beverages,Nutrisari Orange,250ml
+NTS-APPLE-250,Nutrisari,Beverages,Nutrisari Apple,250ml
+CCA-ORIG-330,Coca Cola,Beverages,Coca Cola Original,330ml
+CCA-ZERO-330,Coca Cola,Beverages,Coca Cola Zero,330ml
+PPS-ORIG-75,Pepsi,Beverages,Pepsi Original,330ml
+ORE-ORIG-137,Oreo,Cookies,Oreo Original,137g
+ORE-CHOC-137,Oreo,Cookies,Oreo Chocolate Cream,137g
+ORE-STRAW-137,Oreo,Cookies,Oreo Strawberry,137g
+ORE-VANILLA-137,Oreo,Cookies,Oreo Vanilla,137g
+PPS-WHITENING,Pepsodent,Personal Care,Pepsodent Whitening Toothpaste,120g
+PPS-HERBAL,Pepsodent,Personal Care,Pepsodent Herbal Toothpaste,120g
+PPS-COMPLETE,Pepsodent,Personal Care,Pepsodent Complete Care,190g
+SNS-RAPID-100,Sensodyne,Personal Care,Sensodyne Rapid Relief,100g
+SNS-WHITENING-100,Sensodyne,Personal Care,Sensodyne Whitening,100g
+SNS-BUNDLE-01,Sensodyne,Personal Care,Sensodyne Toothpaste + Toothbrush Bundle,1 set
+WRD-LIPSTICK-05,Wardah,Beauty,Wardah Exclusive Matte Lipstick,3.5g
+WRD-FOUNDATION-20,Wardah,Beauty,Wardah Lightening Foundation,20ml
+WRD-POWDER-14,Wardah,Beauty,Wardah Lightening Powder,14g
+WRD-MASCARA-8,Wardah,Beauty,Wardah EyeXpert Mascara,8ml
+PLT-TV-32,Polytron,Electronics,Polytron LED TV 32 inch,32 inch
+PLT-TV-43,Polytron,Electronics,Polytron Smart TV 43 inch,43 inch
+SMG-PHONE-A24,Samsung,Electronics,Samsung Galaxy A24,1 unit
+SMG-PHONE-S23,Samsung,Electronics,Samsung Galaxy S23,1 unit
+XMI-REDMI-NOTE,Xiaomi,Electronics,Redmi Note 12,1 unit
+RLM-FLASH-2H,Realme,Electronics,Realme C55,1 unit
+OPP-SMARTPHONE,Oppo,Electronics,Oppo A78,1 unit
+RNS-ANTI-NODA,Rinso,Home Care,Rinso Anti Noda Liquid,800ml
+RNS-COLOUR-800,Rinso,Home Care,Rinso Colour Care,800ml
+WGS-SO-KLIN-1KG,Wings,FMCG,So Klin Powder Detergent,1kg
+WGS-ATTACK-1KG,Wings,FMCG,Attack Powder Detergent,1kg
+UQL-TSHIRT-M,Uniqlo,Fashion,Uniqlo Heattech T-Shirt,M
+UQL-JEANS-32,Uniqlo,Fashion,Uniqlo Selvedge Jeans,32
+NKE-LIMITED-AIR,Nike,Fashion,Nike Air Max Limited Edition,42
+ADS-JACKET-L,Adidas,Fashion,Adidas Training Jacket,L
+ZRA-MEGA-SALE,Zara,Fashion,Zara Summer Collection,Various
+KFC-FAMILY-PACK,KFC,Food,KFC Family Pack 4 pcs,4 portions
+MCD-BIG-MAC,McDonald's,F&B,McDonald's Big Mac,1 serving
+SBX-FRAPPUCCINO,Starbucks,F&B,Starbucks Frappuccino,Grande
+TVL-HOTEL-JKT,Traveloka,Travel,Jakarta Hotel Booking,1 night
+SPE-NEW-USER,Shopee,E-commerce,Shopee New User Voucher,Digital
+TKP-PAYDAY,Tokopedia,Retail,Tokopedia Payday Voucher,Digital
+ALF-MEMBERSHIP,Alfamart,Retail,Alfamart Membership Card,Digital
+GPY-REFERRAL,GoPay,Fintech,GoPay Referral Bonus,Digital
+SPH-BIRTHDAY,Sephora,Beauty,Sephora Birthday Special,Digital
+IKE-FAMILY-FRIENDS,IKEA,Retail,IKEA Family & Friends Event,Digital
+IKE-NEWLYWED,IKEA,Home,IKEA Newlywed Package,Various
+LG-COMBO-TV-SOUND,LG,Electronics,LG TV + Soundbar Combo,1 set
+LGT-GAMING-SET,Logitech,Gaming,Logitech Gaming Set,1 set
+CAN-PRINTER-G2010,Canon,Office,Canon PIXMA G2010 Printer,1 unit
+GRD-SENIOR,Guardian,Pharmacy,Guardian Senior Citizen Package,Various
+BLM-VITAMIN-C,Blackmores,Health,Blackmores Vitamin C,60 tablets
+EGR-WEEKEND,Eiger,Outdoor,Eiger Weekend Adventure Gear,Various
+SPC-JERSEY-PSI,Specs,Sports,Specs Persija Jersey,L
+FCL-SCHOOL-KIT,Faber Castell,Stationery,Faber Castell School Kit,1 set
+INF-WFH-DESK,INFORMA,Furniture,INFORMA Work From Home Desk,1 unit
+RCN-DOG-FOOD,Royal Canin,Pet Care,Royal Canin Adult Dog Food,15kg
+BMB-ECO-BOTTLE,Bamboo,Sustainable,Bamboo Eco Water Bottle,500ml
+BTK-SHIRT-L,Batik Trusmi,Handicraft,Batik Trusmi Traditional Shirt,L
+SHP-AC-1PK,Sharp,Home Comfort,Sharp Air Conditioner 1PK,1 unit
+CNS-BACKPACK-40L,Consina,Adventure,Consina Backpack 40L,40L
+CCH-HANDBAG,Coach,Luxury,Coach Leather Handbag,Medium
+ABC-KECAP-600,ABC,Condiments,ABC Kecap Manis,600ml
+ABC-SAMBAL-340,ABC,Condiments,ABC Sambal Asli,340ml
+IND-KOPI-165,Indocafe,Coffee,Indocafe Coffeemix 3in1,165g
+IND-CAPPUCCINO-150,Indocafe,Coffee,Indocafe Cappuccino,150g
+KOP-KAPAL-380,Kapal Api,Coffee,Kapal Api Kopi Bubuk,380g
+SGM-SUSU-900,SGM,Baby Care,SGM Eksplor 1+ Vanilla,900g
+SGM-SUSU-MADU-900,SGM,Baby Care,SGM Eksplor 1+ Madu,900g
+SUN-MINYAK-2L,SunCo,Cooking Oil,SunCo Minyak Goreng,2L
+TRO-MINYAK-2L,Tropical,Cooking Oil,Tropical Minyak Goreng,2L
+BNG-MARGARIN-200,Blue Band,Margarine,Blue Band Margarine,200g
+FLV-MARGARIN-200,Filma,Margarine,Filma Margarine,200g
+GIV-SABUN-75,GIV,Personal Care,GIV Sabun Mandi,75g
+LUX-SABUN-85,Lux,Personal Care,Lux Sabun Mandi,85g
+CLR-SHAMPOO-170,Clear,Hair Care,Clear Shampoo Anti Dandruff,170ml
+SUN-SHAMPOO-170,Sunsilk,Hair Care,Sunsilk Shampoo Black Shine,170ml
+PON-SHAMPOO-170,Pantene,Hair Care,Pantene Shampoo Total Damage Care,170ml
+VAS-LOTION-200,Vaseline,Skin Care,Vaseline Healthy White Lotion,200ml
+NIV-LOTION-200,Nivea,Skin Care,Nivea Soft Moisturizing Cream,200ml
