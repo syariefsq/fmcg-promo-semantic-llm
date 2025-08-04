@@ -1,5 +1,5 @@
 
-![preview of the app](copy-reuse-recommender.jpeg)
+![preview of the app](copy-use-recommender.png)
 
 # 🎯 FMCG Promotion Copy Re-use Recommender
 
